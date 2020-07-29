@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bb58ba4-dd1c-47e0-b571-2b98744249c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e2X3EIJbEygWoGdBFdaBfpConz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/udemyTests.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.udemyTests">
+    <configuration name="Unnamed" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="udemyTests" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\anthc\PycharmProjects\FlaskTest\udemy\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udemyTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.udemyTests" />
+      <item itemvalue="Python Remote Debug.Unnamed" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb58ba4-dd1c-47e0-b571-2b98744249c3" name="Default Changelist" comment="" />
+      <created>1593520459077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593520459077</updated>
+      <workItem from="1593520470058" duration="982000" />
+      <workItem from="1593522200205" duration="633000" />
+      <workItem from="1594041315036" duration="1724000" />
+      <workItem from="1594215847625" duration="828000" />
+      <workItem from="1594217693827" duration="1718000" />
+      <workItem from="1594649902371" duration="1450000" />
+      <workItem from="1594731419408" duration="3285000" />
+      <workItem from="1594773171686" duration="5562000" />
+      <workItem from="1594820003151" duration="946000" />
+      <workItem from="1594866937274" duration="985000" />
+      <workItem from="1594868175239" duration="927000" />
+      <workItem from="1595337008377" duration="2229000" />
+      <workItem from="1595510309528" duration="1049000" />
+      <workItem from="1595940190008" duration="1361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593522227269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593522227269" />
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594868020942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1594868020942" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596027075470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596027075470" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1593522223913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593522223913" />
+    <state width="724" height="202" key="GridCell.Tab.0.bottom" timestamp="1595944065999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595944065999" />
+    <state width="724" height="202" key="GridCell.Tab.0.center" timestamp="1595944065999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595944065999" />
+    <state width="724" height="202" key="GridCell.Tab.0.left" timestamp="1595944065999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595944065999" />
+    <state width="724" height="202" key="GridCell.Tab.0.right" timestamp="1595944065999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595944065999" />
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1595339238717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595339238717" />
+    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1595339238717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595339238717" />
+    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1595339238717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595339238717" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1595339238717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595339238717" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udemy$udemyTests.coverage" NAME="udemyTests Coverage Results" MODIFIED="1595940943553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
